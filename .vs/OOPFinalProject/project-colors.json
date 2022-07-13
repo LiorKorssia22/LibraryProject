@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f45c82a8-f1c5-4dd4-8d46-ce50e8ae11f6": {
+      "ProjectGuid": "f45c82a8-f1c5-4dd4-8d46-ce50e8ae11f6",
+      "DisplayName": "OOPFinalProject",
+      "ColorIndex": 0
+    },
+    "0846c737-2abc-4580-be8e-22aff964c2f7": {
+      "ProjectGuid": "0846c737-2abc-4580-be8e-22aff964c2f7",
+      "DisplayName": "BookLIB",
+      "ColorIndex": 1
+    },
+    "a4da512e-7934-4316-b357-7a8f957cbbaf": {
+      "ProjectGuid": "a4da512e-7934-4316-b357-7a8f957cbbaf",
+      "DisplayName": "Services",
+      "ColorIndex": 2
+    },
+    "4e735346-819c-4661-b6de-2b551e066b0f": {
+      "ProjectGuid": "4e735346-819c-4661-b6de-2b551e066b0f",
+      "DisplayName": "Models",
+      "ColorIndex": 3
+    },
+    "14bd67e7-6753-44c9-9046-47ca80637f61": {
+      "ProjectGuid": "14bd67e7-6753-44c9-9046-47ca80637f61",
+      "DisplayName": "UnitTestProject1",
+      "ColorIndex": 4
+    },
+    "f420007a-28b3-4422-86b5-c650fc030ad8": {
+      "ProjectGuid": "f420007a-28b3-4422-86b5-c650fc030ad8",
+      "DisplayName": "UnitTestProject2",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

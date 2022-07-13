@@ -1,0 +1,76 @@
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\OOPFinalProject.exe.config
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\OOPFinalProject.exe
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\OOPFinalProject.pdb
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\BookID.dll
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\CommonServiceLocator.dll
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\BookID.pdb
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlCustomer.baml
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlDataEnty.baml
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlCustomer.g.cs
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlManager.g.cs
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlDataEnty.g.cs
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject_MarkupCompile.cache
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject_MarkupCompile.lref
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\App.baml
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlManager.baml
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.g.resources
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.Properties.Resources.resources
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.CopyComplete
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.exe
+C:\Users\Administrator\source\repos\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.pdb
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\OOPFinalProject.exe.config
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\OOPFinalProject.exe
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\OOPFinalProject.pdb
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\BookID.dll
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\CommonServiceLocator.dll
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\BookID.pdb
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlCustomer.baml
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlDataEnty.baml
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlCustomer.g.cs
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlManager.g.cs
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlDataEnty.g.cs
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject_MarkupCompile.cache
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject_MarkupCompile.lref
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlManager.baml
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.g.resources
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.CopyComplete
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.exe
+C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.pdb

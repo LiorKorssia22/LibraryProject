@@ -1,0 +1,16 @@
+﻿using System;
+using static BookLIB.Book;
+using static BookLIB.Journal;
+
+namespace BookLIB.InterFaces
+{
+    public interface IDataJournal
+    {
+        event Action MessageBoxAdd;
+        event Action MessageBoxMiss;
+
+        bool AddJournalToList(string name, string authername, long isbn, DateTime dateprint, int copynumber, double price, double discount
+           , int unitinstock, CatgoryType catgory, CatgoryTypeJornal catgoryjournal);
+        event Action<AbstractItem> AddJournalEvent;
+    }
+}
