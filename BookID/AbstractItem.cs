@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 using static BookLIB.Book;
 using static BookLIB.Journal;
 
@@ -8,6 +9,7 @@ namespace BookLIB
     {
         public string Name { get; set; }
         public string Auther { get; set; }
+        [Key]
         public long ISBN { get; set; }
         public DateTime DatePrint { get; set; }
         public int Copies { get; set; }

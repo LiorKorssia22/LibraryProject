@@ -1,6 +1,7 @@
 ﻿using BookLIB.InterFaces;
 using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Command;
+using OOPFinalProject.Context;
 using System;
 using static BookLIB.Book;
 using static BookLIB.Journal;
@@ -176,7 +177,7 @@ namespace OOPFinalProject.ViewModel
         #endregion
 
 
-
+        LibraryContext libraryContext = new LibraryContext();
 
         public readonly IDataService dataService;
         public readonly IDataBook dataBook;

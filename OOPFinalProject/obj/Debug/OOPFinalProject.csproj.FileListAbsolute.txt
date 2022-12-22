@@ -74,3 +74,46 @@ C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFin
 C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.CopyComplete
 C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.exe
 C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\OOPFinalProject\obj\Debug\OOPFinalProject.pdb
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\OOPFinalProject.exe.config
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\OOPFinalProject.exe
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\OOPFinalProject.pdb
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\BookID.dll
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\CommonServiceLocator.dll
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\BookID.pdb
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.AssemblyReference.cache
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlCustomer.baml
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlDataEnty.baml
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlCustomer.g.cs
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlManager.g.cs
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlDataEnty.g.cs
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\App.g.cs
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\OOPFinalProject_MarkupCompile.cache
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\OOPFinalProject_MarkupCompile.lref
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\App.baml
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\MainWindow.baml
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\ViewUserControl\UserControlManager.baml
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\OOPFinalProject.g.resources
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\OOPFinalProject.Properties.Resources.resources
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.GenerateResource.cache
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\OOPFinalProject.csproj.CopyComplete
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\OOPFinalProject.exe
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\OOPFinalProject.pdb
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\EntityFramework.dll
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\EntityFramework.xml
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\OOPFinalProject\obj\Debug\OOPFinalProject.Migrations.test.resources

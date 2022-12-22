@@ -10,3 +10,9 @@ C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFin
 C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\BookID\obj\Debug\BookLIB.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\BookID\obj\Debug\BookID.dll
 C:\Users\Administrator\Desktop\דימטרי קבצים\פרוייקט OOP\OOPFinalProject\BookID\obj\Debug\BookID.pdb
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\BookID\bin\Debug\BookID.dll
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\BookID\bin\Debug\BookID.pdb
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\BookID\obj\Debug\BookLIB.csproj.AssemblyReference.cache
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\BookID\obj\Debug\BookLIB.csproj.CoreCompileInputs.cache
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\BookID\obj\Debug\BookID.dll
+C:\Users\ayose\Documents\Developments\Diamond\SOLID\Lior\LibraryProject\BookID\obj\Debug\BookID.pdb
